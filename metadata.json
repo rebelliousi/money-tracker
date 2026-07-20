@@ -1,0 +1,6 @@
+{
+  "name": "MoneyTracker",
+  "description": "An elegant, modern personal finance tracker with real-time insights and smart budget planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
